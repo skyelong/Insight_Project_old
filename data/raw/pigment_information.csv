@@ -1,0 +1,27 @@
+﻿color_name,manufacturer,primary_con_mix,mixture,warm_cool,bright_neutral,num_pigments,pig_1,pig_2,pig_3,pig_4,color_location,transparency,staining,granulation,lightfastness,image_number,image_location
+Hansa Yellow Light,Daniel Smith,primary,0,cool,bright,1,py97,0,0,0,yellow,semi-transparent,staining,Non Granulating,Excellent,1,http://danielsmith.com/hansa-yellow-medium-15ml-tube-daniel-smith-extra-fine-watercolor/
+Quinacridone Gold,Daniel Smith,primary,0,warm,earth,2,po48,py150,0,0,yellow_orange,transparent,low staining,Granulating,Excellent,2,http://danielsmith.com/quinacridone-gold-15ml-tube-daniel-smith-extra-fine-watercolor/
+Cadmium Orange Hie,Daniel Smith,con,50_50_Hansa_Pyrrol_Scarlett,warm,bright,3,py53,po73,py83,0,orange,semi-opaque,Low Staining,Non Granulating,Excellent,3,http://danielsmith.com/cadmium-orange-hue-15ml-tube-daniel-smith-extra-fine-watercolor/
+50_50_hansa_scarlett,Daniel Smith,mix,0,warm,bright,2,py97,pr255,0,0,orange,nan,staining,non Granulating,Excellent,4,nan
+Pyrrol Scarlet,Daniel Smith,primary,0,warm,bright,1,pr255,0,0,0,red,semi-transparent,medium staining,non Granulating,Excellent,5,http://danielsmith.com/pyrrol-scarlet-15ml-tube-daniel-smith-extra-fine-watercolor/
+75_pyrrol_75_hansa,Daniel Smith,mix,0,warm,bright,3,py53,po73,py83,0,red_orange,nan,staining,non Granulating,excellent,6,nan
+pyrrol orange,daniel Smith,con,75_25_Pyrrol_Scarlet_Hansa_Yellow_Medium,warm,bright,1,po73,0,0,0,red_orange,semi-transparent,medium staining,non Granulating,Excellent,7,http://danielsmith.com/pyrrol-orange-15ml-tube-daniel-smith-extra-fine-watercolor/
+pyrrol crimson,daniel Smith,primary,0,cool,bright,1,pr264,0,0,0,cool_red,semi-transparent,medium staining,non Granulating,excellent,8,http://danielsmith.com/pyrrol-crimson-15ml-tube-daniel-smith-extra-fine-watercolor/
+Quinacridone Rose,Daniel Smith,primary,0,warm,bright,1,pv19,0,0,0,warm pink,transparent,medium staining,non Granulating,excellent,9,http://danielsmith.com/quinacridone-rose-15ml-tube-daniel-smith-extra-fine-watercolor/
+Mayan Violet,Daniel Smith,con,75_Crimson_25_Ultramarine_Blue,cool,bright,1,pv58,0,0,0,cool_pink,transparent,low staining,granulating,Very Good,10,http://danielsmith.com/mayan-violet-15ml-tube-daniel-smith-extra-fine-watercolor/
+75_Crimson_25_Ultramarine_Blue,Daniel Smith,mix,0,cool,bright,nan,pr274,nan,nan,0,cool_pink,nan,nan,nan,nan,11,nan
+Imperial Purple,daniel Smith,con,50_ultrablue_50_quin_rose,cool,bright,2,pv19,pb29,0,0,purple,semi-transparent,low staining,granulating,excellent,12,http://danielsmith.com/imperial-purple-15ml-tube-daniel-smith-extra-fine-watercolor/
+50_ultrablue_50_quin_rose,daniel Smith,mix,0,cool,bright,nan,nan,nan,nan,0,purple,nan,nan,nan,nan,13,
+French Ultramarine,Daniel Smith,primary,0,warm,bright,1,P29,0,0,0,warm blue,transparent,medium staining,granulating,excellent,14,http://danielsmith.com/french-ultramarine-15ml-tube-daniel-smith-extra-fine-watercolor/
+Pthalo Blue (GS),daniel Smith,primary,0,cool,bright,1,15:03,0,0,0,cool blue,transparent,high staining,non Granulating,excellent,15,http://danielsmith.com/phthalo-blue-gs-15ml-tube-daniel-smith-extra-fine-watercolor/
+Pthalo Turquoise,daniel Smith,con,0,cool,bright,2,pb15:3,pg36,0,0,blue-green,transparent,high staining,non Granulating,excellent,16,http://danielsmith.com/phthalo-turquoise-15ml-tube-daniel-smith-extra-fine-watercolor/
+Pthalo Green (YS),daniel Smith,con,0,warm,bright,1,pb 36,0,0,0,warm green,transparent,high staining,non Granulating,excellent,17,http://danielsmith.com/phthalo-green-yellow-shade-5ml-tube-daniel-smith-extra-fine-watercolor/
+Pthalo Green (BS),daniel Smith,con,0,cool,bright,1,pg7,0,0,0,cool green,transparent,high staining,non Granulating,excellent,18,http://danielsmith.com/phthalo-green-bs-15ml-tube-daniel-smith-extra-fine-watercolor/
+Pthalo Yellow Green,daniel Smith,con,0,warm,bright,2,pg 36,py 3,0,0,warm yellow green,transparent,medium staining,Non Granulating,very Good,19,http://danielsmith.com/phthalo-yellow-green-15ml-tube-daniel-smith-extra-fine-watercolor/
+Hooker's Green,daniel Smith,con,0,cool,earth,4,pg 36,py 3,py150,po48,cool earth green,semi-transparent,low staining,non Granulating,very Good,20,http://danielsmith.com/hookers-green-15ml-tube-daniel-smith-extra-fine-watercolor/
+Sap Green,daniel Smith,con,0,warm,earth,3,po48,py150,pg7,0,warm earth green,transparent,medium staining,granulating,excellent,21,http://danielsmith.com/sap-green-15ml-tube-daniel-smith-extra-fine-watercolor/
+Burnt Sienna,daniel Smith,primary,0,warm,earth,1,pbr7,0,0,0,warn earth brown,semi-transparent,non-staining,granulating,excellent,22,http://danielsmith.com/burnt-sienna-15ml-tube-daniel-smith-extra-fine-watercolor/
+Raw Umber Violet,daniel Smith,con,0,cool,earth,2,pbr7,pv19,0,0,cool earth brown,semi-transparent,low staining,granulating,excellent,23,http://danielsmith.com/raw-umber-violet-15ml-tube-daniel-smith-extra-fine-watercolor/
+Payne's Gray,daniel Smith,con,0,cool,neutral,2,pb29,pbk9,0,0,neutral,semi-transparent,low staining,granulating,excellent,24,http://danielsmith.com/paynes-gray-15ml-tube-daniel-smith-extra-fine-watercolor/
+neutral tint,daniel Smith,con,0,warm,neutral,3,pbk6,pv19,pb15,0,neutral,semi-transparent,low staining,Non Granulating,excellent,25,http://danielsmith.com/neutral-tint-15ml-tube-daniel-smith-extra-fine-watercolor/
+lamp black,daniel Smith,con,0,warm,neutral,1,pk6,0,0,0,black,opaque,high staining,Non Granulating,excellent,26,http://danielsmith.com/lamp-black-15ml-tube-daniel-smith-extra-fine-watercolor/
